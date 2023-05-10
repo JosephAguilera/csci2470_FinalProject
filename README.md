@@ -1,2 +1,2 @@
 # csci2470_FinalProject
-## Predicting Transcription Factor Binding from DNA Sequences
+## X Marks the Spot: Targeting the X-chromosome using Transformers
