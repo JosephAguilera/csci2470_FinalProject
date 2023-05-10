@@ -1,0 +1,24 @@
+name: csci1470
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - pyyaml
+  - ipywidgets
+  - pip
+  - pandas-datareader
+  - pandoc
+  - jupyter
+  - numpy
+  - scikit-learn
+  - h5py
+  - tqdm
+  - jupyterlab
+  - pandas
+  - scipy
+  - matplotlib=3.5
+  - pillow
+  - python=3.10
+  - seaborn
+prefix: /opt/anaconda3/envs/csci1470
